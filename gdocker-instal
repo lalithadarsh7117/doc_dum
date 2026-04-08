@@ -18,9 +18,5 @@ EOF
 
 sudo apt update
 
-sudo systemctl status docker
 
-sudo systemctl start docker
-
-sudo docker run hello-world
 
